@@ -1,0 +1,269 @@
+.body{
+    margin: 0;
+}
+.container{
+    
+    background-color: #fffc00;
+    margin: 0;
+}
+.menubar{
+    display: flex;
+    flex-direction: row;
+    height:100px; 
+}
+.menu1{
+    width: 350px;
+}
+.snap1{
+    padding: 25px 0 0 178px;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+.header{
+    display: flex;
+    font-size: 35px;
+    word-spacing: 40px;
+    padding-left: 120px
+    
+}
+.content{
+    
+    align-items: center;
+    margin-top: 6px;
+    font-size: 21px;
+    font-weight: 600;
+    font-style: revert;
+    margin-right: -304px;
+}
+
+   
+
+.body1{
+    display: flex;
+    justify-content:center;
+    font-size: 60px;
+    text-align: flex-end;
+    height: 370px;
+    width: 100%;
+    top: padding 40px;
+}
+.first{
+    margin-top: 295px;
+}
+.vedio1{
+    /* width: 333px; */
+    height: 556px;
+    margin-left: 120px;
+    margin-top: 177px;
+}
+.vedio{
+    height: 100px;
+}
+.second{
+    font-size: 40;
+    margin-top: 93px;
+}
+.body2{
+    display: flex;
+    justify-content: center;
+    justify-content: 30px;
+    height: 30px;
+    align-items: center;
+    height: 115px;
+    justify-content: space-evenly;
+
+}
+.body2C{
+    margin-left: 20px;
+}
+
+.inp{
+    height: 50px;
+    width: 261px;
+    font-size: 30px;
+    border-radius: 12px;
+
+
+}
+.sel{
+    height: 50px;
+    width: 162px;
+    font-size: 30px;
+    margin-right: -215px;
+    text-align: center;
+    border-radius: 12px;
+}
+.button{
+    height: 50px;
+    width: 162px;
+    font-size: 30px;
+    margin-right: -215px;
+    border-radius: 29px;
+    margin-left: -200px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    
+}
+.body3{
+    display: flex;
+    height:843px;
+    
+}
+.body3A{
+    width:40%;
+
+}
+.body3B{
+    
+    width:60%;
+    text-align: left;
+    padding-top: 65px;
+    text-size-adjust: 40;
+    font-size: 41px;
+}
+.body3Ba{
+    display:flex;
+    flex-direction: row;
+}
+.sel1{
+    height: 54px;
+    width: 162px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 12px;
+}
+    
+     
+.inp1{
+    height: 50px;
+    width: 261px;
+    font-size: 30px;
+    border-radius: 12px;
+    margin-left: 80px;
+  
+}
+.button1{
+    background-color: black;
+    color:white;
+    height: 50px;
+    width: 162px;
+    font-size: 30px;
+    border-radius: 29px;
+    margin-top: 20px;   
+    cursor: pointer; 
+}
+.body4{
+   
+    display: flex;
+    width:100%;
+    height: 800px;
+}
+.third{
+   
+    font-size: 70px;
+    padding-top: 93px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+.body4Aa{
+    display: flex;
+    margin-left: 157px;
+}
+.button3{
+    background-color: black;
+    color:white;
+    height: 50px;
+    width: 280px;
+    font-size: 30px;
+    border-radius: 29px;
+    margin-top: 20px; 
+    margin-left: 158px;  
+    cursor: pointer; 
+}
+.body4B{
+    margin-left: 150px;
+}
+.body5{
+    display: flex;
+    width:100%;
+    height: 800px;
+}
+.body5A{
+    width:40%;
+}
+.body5B{
+    width:60%;
+    text-align: left;
+    padding-top: 65px;
+    text-size-adjust: 40;
+    font-size: 41px;
+}
+.fourth{
+    margin-top: 94px;
+}
+.body5Ba{
+    display: flex;
+}
+.body5Ab{
+    margin-left: -155px;
+}
+.footer{
+    display: flex;
+    width:100%;
+    height:300px;
+    background-color: white;
+    line-height: 2;
+}
+.footerA{
+    list-style: none;
+    margin-left: 210px;
+    margin-top: 50px;
+}
+.footerB{
+    list-style: none;
+    margin-left: 155px;
+    margin-top: 47px;
+}
+.footerC{
+    list-style: none;
+    margin-left: 155px;
+    margin-top: 47px;
+}
+.footerD{
+    list-style: none;
+    margin-left: 155px;
+    margin-top: 47px;
+}
+.footer2{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 121px;
+    background-color: white;
+    
+}
+
+
+.selF{
+    height: 34px;
+    width: 212px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 12px;
+}
+.footer2A{
+    margin-left: 200px;
+}
+.footerlast{
+    display: flex;
+    height: 20px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    justify-content: space-evenly;
+    padding: 22px;
+    cursor: pointer;
+    font-weight: bold;
+}
